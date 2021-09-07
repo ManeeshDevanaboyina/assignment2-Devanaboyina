@@ -24,4 +24,4 @@ Paris is unlike any other location on Earth, **its beauty is unparalleled, the n
 * Gaming console
 * Laptop
 
-
+![Image of a vintage car](IMG_0741.HEIC)

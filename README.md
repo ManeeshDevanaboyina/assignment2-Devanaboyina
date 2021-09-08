@@ -89,5 +89,6 @@ Creating a table that shows food items & Drinks that I recommend someone to try 
         return r - sum;  
     }  
 
-    [Code Source](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+
+[Code Source](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
 

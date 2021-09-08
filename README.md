@@ -29,3 +29,18 @@ Paris is unlike any other location on Earth, **its beauty is unparalleled, the n
 
 
 [Link to AboutMe](https://github.com/ManeeshDevanaboyina/assignment2-Devanaboyina/blob/967c6fa3c853fa52845ef7912fef7c402a077c86/AboutMe.md)
+
+***
+
+## Some of my favourite foods and Drinks
+
+Creating a table that shows food items & Drinks that I recommend someone to try which also includes Location and cost of that item.
+
+| Items | Location | Cost |
+| :---: | :---: | :---: |
+| Croissants | Paris | 10$ |
+| Macarons | Ladurée | 5$ |
+| French Cheese | Alsena | 3$ |
+| Gini | Suntury | 5$ | 
+
+
